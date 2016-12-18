@@ -1,0 +1,30 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+  * What new skills have you learned?
+
+  I've learned a lot of new HTML5 concepts such as figures and figcaptions.
+  I learned how to quickly translate a document tree diagram into functional
+  HTML in a matter of seconds. Also, I learned how to use "emmet" in Sublime
+  Text 3 to quickly return correctly formatted HTML tags with quick abbreviations.
+
+  * What has been easy?
+
+  The basics of HTML tagging. I've learned this before.
+
+  * What has been difficult?
+
+  It has been difficult choosing which way to do certain tasks given that
+  there are many ways to implement an idea.
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+  One of the lessons I learned in the first project was using my strengths as a
+  support tool. Therefore, when conflicted with which method to move forward with
+  a certain task, I choose to do what I know works and what I know could be implemented
+  and even refactored later with relatively little time or effort.
